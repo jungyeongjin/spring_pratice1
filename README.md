@@ -26,8 +26,16 @@ merge
 https://learngitbranching.js.org/?locale=ko 브랜치 개념을 도우는 자료 
 충돌이날경우 3개이상의 브랜치에서 자주 나오는데 추후 나올 상황임
 
-
-
-
-
-머지 연습 중입니다. 
+ reset (롤백 hard   reset hard)
+ git reset --hard
+ 단점 : 쉽지만 커밋이 날라간다. 
+ 강제 푸시가 필요하다. (git push --force)
+commit 되돌리기
+ 최대한 안쓰는 것이 좋다.
+ 
+ 브랜치 만들어서 되돌리기. 
+ 단점: 트리가 지저분해진다. 
+ 
+ 
+ 
+ 
