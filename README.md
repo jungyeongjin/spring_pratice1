@@ -40,5 +40,5 @@ commit 되돌리기
  커밋 기록은 없어지지않는다. 
  가장 정석적
  단점: 충돌의 가능성있다. 
- 
+방식 Compare With -> Head Revision
  
