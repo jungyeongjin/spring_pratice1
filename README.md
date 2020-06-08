@@ -1,5 +1,6 @@
 # spring_pratice1
 
+
  깃 사용 요령 
 clone: 원격 저장소 (github) 을 내 컴퓨터에 복사해 온다.
 add: 내 컴퓨터에서 작업한 파일들을 스테이지에 추가
@@ -29,4 +30,4 @@ https://learngitbranching.js.org/?locale=ko 브랜치 개념을 도우는 자료
 
 
  
- 
+
