@@ -1,4 +1,4 @@
-# spring_pratice1
+#깃허브 참고 사항
 
  깃 사용 요령 
 clone: 원격 저장소 (github) 을 내 컴퓨터에 복사해 온다.
@@ -42,3 +42,4 @@ commit 되돌리기
  단점: 충돌의 가능성있다. 
 방식 Compare With -> Head Revision
  
+ 이정도면 알면 80퍼센트 깃을 쓸수 있을거라고 생각합니다. 
