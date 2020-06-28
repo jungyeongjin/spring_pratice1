@@ -7,7 +7,13 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world!
+	<c:forEach var="list" items="${userlist}">
+	<h5>${list.id}  ,  ${list.password} , ${list.name}</h5>
+	</c:forEach>
+	
+	
+	
 </h1>
 
 <P>  영진제작 </P>
